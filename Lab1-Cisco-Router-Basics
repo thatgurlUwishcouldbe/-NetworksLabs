@@ -1,0 +1,10 @@
+### Lab 1 - Cisco Router Basic Commands
+
+Configured and verified core Cisco IOS administration and access-security features:
+
+- Changed the router hostname.
+- Configured console access and local user authentication.
+- Protected privileged EXEC mode using an enable password/secret.
+- Configured VTY access for Telnet and SSH.
+- Enabled password encryption and login banners.
+- Assigned an IP address to a router interface and verified reachability with `ping`.

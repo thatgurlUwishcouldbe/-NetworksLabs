@@ -1,4 +1,4 @@
-# IT1340 Computer Networks Labs
+# Computer Networks Labs
 
 This repository contains my Cisco Packet Tracer lab work for Computer Networks cours.
 

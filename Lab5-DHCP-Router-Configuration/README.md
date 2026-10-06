@@ -1,0 +1,1 @@
+This lab demonstrates how to configure a Cisco router as a DHCP server using Cisco Packet Tracer. The lab includes router interface configuration, DHCP configuration, IP address assignment to PCs, network connectivity testing, router configuration verification, and resetting the router configuration.

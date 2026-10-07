@@ -326,9 +326,4 @@ All required tasks were completed:
 - Ping
 - Simple PDU
 
-## Course Information
-
-**Course:** IT1340
-**Platform:** Cisco Packet Tracer
-**Lab:** Networking Lab
 
